@@ -151,7 +151,7 @@ dmypy.json
 
 
 # Database reference
-clean_database.db
+database.db.clean
 
 # .DS_Store
 .DS_Store

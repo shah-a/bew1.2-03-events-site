@@ -4,9 +4,10 @@ from sqlalchemy.orm import backref
 from enum import Enum
 
 class EVENT_TYPE(Enum):
-    PARTY = 1
-    STUDY = 2
-    NETWORKING = 3
+    RELAX = 1
+    PARTY = 2
+    STUDY = 3
+    NETWORKING = 4
 
 class Guest(db.Model):
     """Guest model."""
