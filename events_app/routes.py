@@ -9,7 +9,6 @@ from events_app import app, db
 
 main = Blueprint('main', __name__)
 
-
 ##########################################
 #           Routes                       #
 ##########################################

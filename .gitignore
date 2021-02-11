@@ -148,3 +148,10 @@ dmypy.json
 .prof
 
 # End of https://www.toptal.com/developers/gitignore/api/flask
+
+
+# Database reference
+clean_database.db
+
+# .DS_Store
+.DS_Store
